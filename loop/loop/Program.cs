@@ -17,7 +17,7 @@ namespace loop
                 Console.Write("For this iteration the value of countVariable is:{0}\n", countVariable);
                 countVariable++;
             }*/
-            for (int counter=0; counter < 10; counter++)
+            for (int counter=0; counter < 20; counter++)
             {
                 Console.WriteLine("The value of the variable is:{0}\n", counter);
             }

@@ -4,3 +4,9 @@ c:\users\tariqual\documents\visual studio 2012\Projects\loop\loop\bin\Debug\loop
 c:\users\tariqual\documents\visual studio 2012\Projects\loop\loop\obj\Debug\loop.csprojResolveAssemblyReference.cache
 c:\users\tariqual\documents\visual studio 2012\Projects\loop\loop\obj\Debug\loop.exe
 c:\users\tariqual\documents\visual studio 2012\Projects\loop\loop\obj\Debug\loop.pdb
+C:\loop\loop\loop\bin\Debug\loop.exe.config
+C:\loop\loop\loop\obj\Debug\loop.exe
+C:\loop\loop\loop\obj\Debug\loop.pdb
+C:\loop\loop\loop\bin\Debug\loop.exe
+C:\loop\loop\loop\bin\Debug\loop.pdb
+C:\loop\loop\loop\obj\Debug\loop.csprojResolveAssemblyReference.cache
